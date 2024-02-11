@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning Java, SpringBoot and PostgreSQL.
 - 🔭 I’m currently working on creating my own pet-projects just for fun and learning how to program.
 - 😀 I like yoga, code, read books, nature, play guitar, taking pictures, and long walks.
-- ⚡ Fun fact: I use Linux OS, like it a lot.
+- ⚡ Fun fact: I use Ubuntu OS, like it a lot.
