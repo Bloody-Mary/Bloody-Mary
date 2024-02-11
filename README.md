@@ -10,5 +10,3 @@
 - 🔭 I’m currently working on creating my own pet-projects just for fun and learning how to program.
 - 😀 I like yoga, code, read books, nature, play guitar, taking pictures, and long walks.
 - ⚡ Fun fact: I use Linux OS, like it a lot.
-
-<a href="http://www.github.com/Bloody-Mary"><img src="https://github-readme-stats.vercel.app/api?username=Bloody-Mary&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bloody-Mary's GitHub stats" /></a>
